@@ -1,0 +1,3 @@
+# Map SNI to certificate filenames when terminating TLS locally.
+# <sni> <certificate-file>
+# example.com example-com.pem
